@@ -1,7 +1,7 @@
-### Hi there 👋
+<h2>Hi there 👋
 
 My name is **David**, I am a Solidity Smart Contract Developer 
-
+</h2>
 ***
 
 ## 🔧 Languages and Tools
@@ -56,10 +56,18 @@ My name is **David**, I am a Solidity Smart Contract Developer
 ***
 <div align="center">
  👉 Get in touch with me...
-
-[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643757205/gmail_sqb5rq.png' title='Email Me!'>](mailto://Nnacheta.david@gmail.com)
+<a href="https://twitter.com/dnnacheta" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/david-nnacheta-b2aa4548/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:Nnacheta.david@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<!--[<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643757205/gmail_sqb5rq.png' title='Email Me!'>](mailto://Nnacheta.david@gmail.com)
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296516_tweet_twitter_twitter_logo_icon_bge2m4.png' title='DM Me!'>](https://twitter.com/dnnacheta)
 [<img src='https://res.cloudinary.com/letech-digital-solutions/image/upload/c_scale,w_32/v1643581958/5296501_linkedin_network_linkedin_logo_icon_pi6n4y.png' title='Message Me!'>](https://www.linkedin.com/in/david-nnacheta-b2aa4548)
-
+-->
 </div>
 
