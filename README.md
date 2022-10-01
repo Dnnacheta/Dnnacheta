@@ -1,6 +1,6 @@
 <h3>
   Hey there 👋
-My name is **David**, I am a Solidity Smart Contract Developer 
+My name is David, I am a Solidity Smart Contract Developer 
 </h3>
 
 ## 🔧 Languages and Tools
