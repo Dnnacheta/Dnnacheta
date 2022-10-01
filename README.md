@@ -2,7 +2,6 @@
   Hey there 👋
 My name is **David**, I am a Solidity Smart Contract Developer 
 </h3>
-***
 
 ## 🔧 Languages and Tools
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
