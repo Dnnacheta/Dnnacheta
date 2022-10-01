@@ -28,10 +28,10 @@ My name is **David**, I am a Solidity Smart Contract Developer
 
 ***
 
-- 🔭 I’m currently writing Smart Contracts and building decentralized apps
-- 🌱 I’m currently learning a lot in the crypto-verse
+- 🔭 I’m currently writing smart contracts and building decentralized apps
+- 🌱 I’m currently learning a lot about the crypto-verse and blockchain
 - 👯 I’m looking to collaborate on some scintillating projects
-- 💬 Ask me about anything blockchain development
+- 💬 Ask me about anything blockchain development and ecosystem
 - ⚡ Fun fact: Problems interest me!
 
 ### This week I spend time on:
