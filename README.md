@@ -5,8 +5,9 @@ My name is **David**, I am a Solidity Smart Contract Developer
 ***
 
 ## 🔧 Languages and Tools
+![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=ffffff&color=238636&labelColor=181717)
-![](https://img.shields.io/badge/Truffle-informational?style=flat&logo=truffle&logoColor=2F74C0&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/Hardhat-informational?style=flat&logo=hardhat&logoColor=ffffff&color=238636&labelColor=F05032)
 ![](https://img.shields.io/badge/Foundry-informational?style=flat&logo=foundry&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
@@ -16,8 +17,6 @@ My name is **David**, I am a Solidity Smart Contract Developer
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=06B6D4&color=238636&labelColor=FFFFFF)
 ![](https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=C76494&color=238636&labelColor=FFFFFF)
-![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
 
 <!-- [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=dnnacheta&show_icons=true&theme=radical&hide=stars)](https://github.com/dnnacheta/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnnacheta&" alt="yczar" /></p>
 
