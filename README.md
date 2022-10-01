@@ -28,11 +28,20 @@ My name is **David**, I am a Solidity Smart Contract Developer
 ***
 <div align="center">
 - 🔭 I’m currently writing smart contracts and building decentralized apps
+</div>  
+<div align="center">
 - 🌱 I’m currently learning a lot about the crypto-verse and blockchain
+</div>
+<div align="center">
 - 👯 I’m looking to collaborate on some scintillating projects
+</div>
+<div align="center">
 - 💬 Ask me about anything blockchain development and ecosystem
+</div>
+<div align="center">
 - ⚡ Fun fact: Problems interest me!
 </div>
+
 <div align="center">
  
 <a href="https://github.com/dnnacheta/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnnacheta&theme=gotham&hide_border=true" alt="jesserc" /></a> <a href="https://github.com/dnnacheta/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnnacheta&theme=gotham&show_icons=true&hide_border=true" /></a>
