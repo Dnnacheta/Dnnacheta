@@ -23,9 +23,6 @@ My name is **David**, I am a Solidity Smart Contract Developer
 [![Dave's github stats](https://github-readme-stats.vercel.app/api?username=dnnacheta&show_icons=true&theme=radical&hide=stars)](https://github.com/dnnacheta/)<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnnacheta&" alt="yczar" /></p>
 
 <a href="https://github.com/Dnnacheta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnnacheta&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Dnnacheta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnnacheta&langs_count=8&layout=compact&theme=radical" />
 </a>
 
@@ -49,7 +46,6 @@ Other        30 hrs 38 mins  ████████░░░░░░░░░
 ```
 END_SECTION:waka-->
 
-![Profile Views](https://gpvc.arturio.dev/amarachiugwu)
 ***
 ### Get in touch with me...
 
