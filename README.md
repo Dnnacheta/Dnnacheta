@@ -1,7 +1,7 @@
-<h2>Hi there 👋
-
+<h3>
+  Hey there 👋
 My name is **David**, I am a Solidity Smart Contract Developer 
-</h2>
+</h3>
 ***
 
 ## 🔧 Languages and Tools
@@ -55,7 +55,6 @@ My name is **David**, I am a Solidity Smart Contract Developer
 
 ***
 <div align="center">
- 👉 Get in touch with me...
 <a href="https://twitter.com/dnnacheta" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
