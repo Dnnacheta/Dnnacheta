@@ -26,13 +26,13 @@ My name is **David**, I am a Solidity Smart Contract Developer
 </a> -->
 
 ***
-
+<div align="center">
 - 🔭 I’m currently writing smart contracts and building decentralized apps
 - 🌱 I’m currently learning a lot about the crypto-verse and blockchain
 - 👯 I’m looking to collaborate on some scintillating projects
 - 💬 Ask me about anything blockchain development and ecosystem
 - ⚡ Fun fact: Problems interest me!
-
+</div>
 <div align="center">
  
 <a href="https://github.com/dnnacheta/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnnacheta&theme=gotham&hide_border=true" alt="jesserc" /></a> <a href="https://github.com/dnnacheta/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnnacheta&theme=gotham&show_icons=true&hide_border=true" /></a>
@@ -40,8 +40,8 @@ My name is **David**, I am a Solidity Smart Contract Developer
 </div>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesserc&hide=css&langs_count=200&theme=gotham&layout=compact" />
+<a href="https://github.com/dnnacheta/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnnacheta&hide=css&langs_count=200&theme=gotham&layout=compact" />
 </a>
 </div>
 
