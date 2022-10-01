@@ -28,9 +28,7 @@ My name is **David**, I am a Solidity Smart Contract Developer
 
 ***
 
-- 🔭 I’m currently working on amazing things like:
-  - Biulding Web3 Dapps for the decentralized world
-  - Writing Smart Contracts On the EVM
+- 🔭 I’m currently writing Smart Contracts and building decentralized apps
 - 🌱 I’m currently learning a lot in the crypto-verse
 - 👯 I’m looking to collaborate on some scintillating projects
 - 💬 Ask me about anything blockchain development
